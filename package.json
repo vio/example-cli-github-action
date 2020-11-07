@@ -22,7 +22,7 @@
   "devDependencies": {
     "@babel/core": "7.12.3",
     "@babel/preset-env": "7.12.1",
-    "@babel/preset-react": "7.12.1",
+    "@babel/preset-react": "7.12.5",
     "@relative-ci/agent": "1.4.0",
     "@svgr/webpack": "5.4.0",
     "autoprefixer": "10.0.1",
